@@ -35,16 +35,15 @@ export default function Home() {
           </form>
         </div>
         <div className="min-h-96 min-w-96 bg-blue-300 grid place-items-center grid-cols-3 relative">
-          
           <div className="min-h-full relative grid place-items-center">
-            <div className="rounded-full min-h-24 min-w-24 bg-black absolute top-0 animate-upDown"></div>
+            <div className="rounded-full min-h-16 min-w-16 bg-black absolute top-0 animate-upDown"></div>
           </div>
           <div className="min-h-full grid place-items-center grid-rows-2">
             <div className="h-28 w-28 bg-yellow-300 animate-rotator"></div>
             <div className="h-28 w-28 bg-yellow-300 animate-rotator"></div>
           </div>
           <div className="min-h-full relative grid place-items-center">
-            <div className="rounded-full min-h-24 min-w-24 bg-black absolute top-0 animate-upDown"></div>
+            <div className="rounded-full min-h-16 min-w-16 bg-black absolute top-0 animate-upDown"></div>
           </div>
         </div>
       </div>
